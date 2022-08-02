@@ -7,7 +7,7 @@
 
 ## About The Project
 
-<img src="./addDelete.png" alt="">
+<img src="./addDelete.PNG" alt="">
 
 Javascript DOM manipulation applied on this project.
 
